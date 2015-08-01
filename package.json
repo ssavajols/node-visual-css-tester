@@ -1,0 +1,17 @@
+{
+  "name": "visual-css-tester",
+  "version": "1.0.1",
+  "description": "Visual dotJS and Page tester with phantomcss. Also google accessibility tests.",
+  "main": "visual-tester.js",
+  "scripts": {
+    "start": "node visual-tester.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dot": "^1.0.3",
+    "dot-compiler": "0.0.3",
+    "optimist": "^0.6.1",
+    "phantomcss": "^0.10.2"
+  }
+}
